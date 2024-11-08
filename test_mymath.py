@@ -16,4 +16,4 @@ def test_mymath_square():
     assert mymath.square(9) == 81
 
 def test_mymath_cube():
-    assert mymath.cube(5) == 12
+    assert mymath.cube(5) == 125
